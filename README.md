@@ -1,1 +1,1 @@
-# Python_Assignment_2
+# This repository includes python basis assignment.
